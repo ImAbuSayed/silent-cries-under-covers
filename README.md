@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/silent-cries-under-covers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Silent Cries Under Covers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silent-cries-under-covers/) |
+| **Get License** | [Request Licensing for Silent Cries Under Covers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silent-cries-under-covers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2768)
 
 ---
 
