@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/silent-cries-under-covers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Silent Cries Under Covers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silent-cries-under-covers/) |
+| **Get License** | [Secure Licensing Rights for Silent Cries Under Covers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silent-cries-under-covers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows dancing on your softest skin
+> Tangled up right here where we begin
+> A quiet storm is breaking softly through
+> I only want to hide away with you
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
